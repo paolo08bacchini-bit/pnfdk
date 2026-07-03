@@ -112,46 +112,6 @@
         "input_text_color": ""
       }
     },
-    "rich_text_7fdVQV": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_gwkJzK": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_XRNTkr": {
-          "type": "heading",
-          "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_mNqJ8i": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_gwkJzK",
-        "heading_XRNTkr",
-        "richtext_mNqJ8i"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "images_with_text_scrolling_7VEfUD": {
       "type": "images-with-text-scrolling",
       "blocks": {
@@ -161,34 +121,13 @@
             "image": "shopify://shop_images/96e235e7-ce2b-450c-8372-3faf5f456f5b.png",
             "icon": "none",
             "icon_width": 48,
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "item_idjigi": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "item_zUKRfA": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/dccbe2c2-68dd-40a3-babb-34ddcc4c39e4.png",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "title": "Harmonisez son quotidien, avec le votre",
+            "content": "<p>Débarrassez vous des léchages compulsifs, les odeurs  insupportables, ou même les petits cris de détresse chaque nuit. On utilise une crie naturelle qui touche directement la source. </p>"
           }
         }
       },
       "block_order": [
-        "item_gUdbV4",
-        "item_idjigi",
-        "item_zUKRfA"
+        "item_gUdbV4"
       ],
       "name": "Images and text scrolling",
       "settings": {
@@ -217,8 +156,22 @@
         "text_color": ""
       }
     },
+    "custom_liquid_BxTPxF": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<p style=\"text-align: center\">Write or copy/paste Liquid code</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "before_after_image_bdLQz9": {
       "type": "before-after-image",
+      "disabled": true,
       "name": "Before/after image",
       "settings": {
         "full_width": true,
@@ -361,9 +314,9 @@
   },
   "order": [
     "main",
-    "rich_text_7fdVQV",
     "images_with_text_scrolling_7VEfUD",
     "custom_liquid_BzKAQJ",
+    "custom_liquid_BxTPxF",
     "before_after_image_bdLQz9",
     "testimonials_YJzEct",
     "related-products"
