@@ -72,7 +72,7 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
+            "show_payment_button": false,
             "show_gift_card_recipient": true,
             "atc_button_background": "",
             "atc_button_text_color": "",
@@ -201,10 +201,10 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "rating": 5,
+            "author": "Alexandra R.",
+            "title": "Sceptique au début",
+            "content": "<p>Avec tout ce que l'on voit sur internet on a tendance à nous perdre, surtout venant de quelqu'un qui aime trop essayer. Mais ca a tout change avec cicciobello, ca a complètement redonne le souris a ma cherie. </p>"
           }
         },
         "testimonial_Eh9YFT": {
@@ -213,9 +213,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Katerine F.",
+            "title": "J'adore",
+            "content": "<p>très bon produit, le poil d'Inna s'est renouvelé </p>"
           }
         },
         "testimonial_jcmaUX": {
@@ -223,10 +223,10 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "rating": 5,
+            "author": "Guillaume S.",
+            "title": "C'est exactement ce que je cherchais",
+            "content": "<p>J'avais aucune envie d'aller chez le vétérinaire et de me retrouver avec des antibiotiques, excellent produit.</p>"
           }
         },
         "testimonial_qRigVq": {
@@ -234,10 +234,10 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
-            "author": "",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "rating": 3,
+            "author": "Sophie L.",
+            "title": "bien",
+            "content": "<p>Je note 3 étoiles car, je n'ai pas encore vu les résultats depuis 2 jours.</p>"
           }
         },
         "testimonial_diXTNN": {
@@ -246,9 +246,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Olivier B.",
+            "title": "Excellent produit",
+            "content": "<p>Rien a dire, parfait pour les démangeaisons fortes et les rougeurs. L'odeur est partie en un clin d'oeuil.</p>"
           }
         },
         "testimonial_7KhAnN": {
@@ -257,9 +257,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Helene Z.",
+            "title": "Alternative naturelle incroyable",
+            "content": "<p>On a essaye l'approche avec l'époque, mais beaucoup trop toxique. Memes résultats, sans la toxicité.</p>"
           }
         }
       },
@@ -276,7 +276,7 @@
         "full_width": true,
         "stack_testimonials": true,
         "subheading": "",
-        "title": "Testimonials",
+        "title": "Ils savent de quoi ils parlent",
         "content": "",
         "link_url": "",
         "link_text": "",
