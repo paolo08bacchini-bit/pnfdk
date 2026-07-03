@@ -124,10 +124,21 @@
             "title": "Harmonisez son quotidien, avec le votre",
             "content": "<p>Débarrassez vous des léchages compulsifs, les odeurs  insupportables, ou même les petits cris de détresse chaque nuit. On utilise une crie naturelle qui touche directement la source. </p>"
           }
+        },
+        "item_DfDgqC": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_063e2cb5-51de-4437-baa1-9c495582f9ea.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Essaye le 60 jours!",
+            "content": "<p>Pas Satisafait ? On te rembourse. Ne risque plus.</p>"
+          }
         }
       },
       "block_order": [
-        "item_gUdbV4"
+        "item_gUdbV4",
+        "item_DfDgqC"
       ],
       "name": "Images and text scrolling",
       "settings": {
@@ -288,7 +299,7 @@
         "full_width": true,
         "stack_testimonials": true,
         "subheading": "",
-        "title": "Ils savent de quoi ils parlent",
+        "title": "Ils parlent pour nous.",
         "content": "",
         "link_url": "",
         "link_text": "",
