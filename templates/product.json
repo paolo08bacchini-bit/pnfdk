@@ -196,6 +196,17 @@
     "testimonials_YJzEct": {
       "type": "testimonials",
       "blocks": {
+        "testimonial_n8HLw6": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Jeremy D.",
+            "title": "Otite éradiquée",
+            "content": "<p>Elle a développé une sérieuse otite à cause des levures, en 2 mois c'est parti complètement et naturellement patientez juste ! Oreilles tip top</p>"
+          }
+        },
         "testimonial_etyCkh": {
           "type": "testimonial",
           "settings": {
@@ -204,7 +215,7 @@
             "rating": 5,
             "author": "Alexandra R.",
             "title": "Sceptique au début",
-            "content": "<p>Avec tout ce que l'on voit sur internet on a tendance à nous perdre, surtout venant de quelqu'un qui aime trop essayer. Mais ca a tout change avec cicciobello, ca a complètement redonne le souris a ma cherie. </p>"
+            "content": "<p>Avec tout ce que l'on voit sur internet on a tendance à nous perdre, surtout venant de quelqu'un qui essaye beaucoup. Mais le soin naturel de cicciobello ca a lui a complètement redonne le souris</p>"
           }
         },
         "testimonial_Eh9YFT": {
@@ -215,7 +226,7 @@
             "rating": 5,
             "author": "Katerine F.",
             "title": "J'adore",
-            "content": "<p>très bon produit, le poil d'Inna s'est renouvelé </p>"
+            "content": "<p>très bon produit, poil soyeux est revenu naturellement depuis l'intérieur et plus d'odeur en seulement 3 semaines.</p>"
           }
         },
         "testimonial_jcmaUX": {
@@ -256,7 +267,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Helene Z.",
             "title": "Alternative naturelle incroyable",
             "content": "<p>On a essaye l'approche avec l'époque, mais beaucoup trop toxique. Memes résultats, sans la toxicité.</p>"
@@ -264,6 +275,7 @@
         }
       },
       "block_order": [
+        "testimonial_n8HLw6",
         "testimonial_etyCkh",
         "testimonial_Eh9YFT",
         "testimonial_jcmaUX",
