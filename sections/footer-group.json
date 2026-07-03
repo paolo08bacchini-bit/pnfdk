@@ -97,14 +97,6 @@
             "content": ""
           }
         },
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "footer",
-            "show_menu_title": true,
-            "menu_title": ""
-          }
-        },
         "text": {
           "type": "text",
           "settings": {
@@ -116,7 +108,6 @@
       },
       "block_order": [
         "newsletter",
-        "links",
         "text"
       ],
       "settings": {
