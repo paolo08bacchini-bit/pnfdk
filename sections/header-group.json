@@ -17,21 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Ingrédients 100% Naturels",
+            "text": "🍀 Ingrédients 100% Naturels",
             "url": ""
           }
         },
         "message_rxbbGe": {
           "type": "message",
           "settings": {
-            "text": "60j satisfait ou remboursé",
+            "text": "✅ 60j satisfait ou remboursé",
             "url": ""
           }
         },
         "message_NwkxxU": {
           "type": "message",
           "settings": {
-            "text": "400+ chiens soulagés",
+            "text": "🐕 400+ chiens soulagés",
             "url": ""
           }
         }
