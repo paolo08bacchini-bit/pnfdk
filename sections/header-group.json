@@ -17,18 +17,34 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Ingrédients 100% Naturels",
+            "url": ""
+          }
+        },
+        "message_rxbbGe": {
+          "type": "message",
+          "settings": {
+            "text": "60j satisfait ou remboursé",
+            "url": ""
+          }
+        },
+        "message_NwkxxU": {
+          "type": "message",
+          "settings": {
+            "text": "400+ chiens soulagés",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_rxbbGe",
+        "message_NwkxxU"
       ],
       "settings": {
         "enable_sticky": false,
         "autoplay": false,
-        "cycle_speed": 6,
+        "cycle_speed": 4,
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
