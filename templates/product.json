@@ -45,6 +45,12 @@
             "collapse_content": false
           }
         },
+        "amose_bundle_amose_bundle_block_tUWRbi": {
+          "type": "shopify://apps/amose-bundle/blocks/amose_bundle_block/50476a12-3ce4-457e-ba71-230751f626b6",
+          "settings": {
+            "product": "le-guerison-naturelle-contre-les-demangeaisons-levures"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -86,6 +92,7 @@
         "payment_terms",
         "separator",
         "description",
+        "amose_bundle_amose_bundle_block_tUWRbi",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",

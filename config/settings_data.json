@@ -43,7 +43,19 @@
     "favicon": "shopify://shop_images/ChatGPT_Image_3_juil._2026_a_23_27_10.png",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "9589668175390395553": {
+        "type": "shopify://apps/amose-bundle/blocks/quantity_options/50476a12-3ce4-457e-ba71-230751f626b6",
+        "disabled": false,
+        "settings": {}
+      },
+      "5711143968472127049": {
+        "type": "shopify://apps/amose-bundle/blocks/cart_drawer_embed/50476a12-3ce4-457e-ba71-230751f626b6",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   },
   "presets": {
     "Sound": {
