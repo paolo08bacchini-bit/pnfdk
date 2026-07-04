@@ -12,10 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -25,12 +21,6 @@
         "badges": {
           "type": "badges",
           "settings": {}
-        },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
         },
         "rating": {
           "type": "rating",
@@ -80,18 +70,11 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
-        },
-        "areviews_reviews_importer_areviews_title_rating_967AFB": {
-          "type": "shopify://apps/areviews-reviews-importer/blocks/AreviewsTitleRating/ab0ec5fe-c95b-4fd6-bfb8-db2a30d0756f",
-          "settings": {}
         }
       },
       "block_order": [
-        "vendor",
         "title",
-        "areviews_reviews_importer_areviews_title_rating_967AFB",
         "badges",
-        "price",
         "rating",
         "payment_terms",
         "separator",
@@ -369,7 +352,14 @@
       "block_order": [
         "areviews_reviews_importer_areviews_display_reviews_0812C9"
       ],
-      "settings": {}
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
