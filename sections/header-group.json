@@ -61,7 +61,7 @@
         "logo": "shopify://shop_images/ChatGPT_Image_3_juil._2026_a_23_27_10.png",
         "logo_max_width": 40,
         "logo_mobile_max_width": 45,
-        "menu": "main-menu",
+        "menu": "customer-account-main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
         "menu_open_trigger": "click",
