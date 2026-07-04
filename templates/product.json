@@ -310,8 +310,8 @@
       ],
       "name": "Testimonials",
       "settings": {
-        "full_width": true,
-        "stack_testimonials": true,
+        "full_width": false,
+        "stack_testimonials": false,
         "subheading": "",
         "title": "Ils parlent pour nous.",
         "content": "",
