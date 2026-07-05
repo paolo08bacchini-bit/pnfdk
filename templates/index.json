@@ -15,12 +15,13 @@
         "slide-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/96e235e7-ce2b-450c-8372-3faf5f456f5b.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "Tell your story",
-            "title": "Slide title",
-            "heading_tag": "h0",
+            "title": "Tuez toutes les douleurs et gardez les moments de sérénité",
+            "heading_tag": "h3",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
