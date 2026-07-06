@@ -204,7 +204,7 @@
             "image": "shopify://shop_images/96e235e7-ce2b-450c-8372-3faf5f456f5b.png",
             "icon": "none",
             "icon_width": 48,
-            "title": "Le quotidien de votre chien en toute harmonie!",
+            "title": "Stop au cercle vicieux, et harmonisez le quotidien de votre chien",
             "content": "<p>Débarrassez vous des léchages compulsifs, les odeurs  insupportables, ou même les petits cris de détresse chaque nuit. On utilise une crie naturelle qui touche directement la source. </p>"
           }
         },
@@ -217,21 +217,11 @@
             "title": "Essaie-le pendant 60 jours !",
             "content": "<p>Pas Satisafait ? Ça marche pas ? On te rembourse la totalité sous 60 jours de garantie. </p>"
           }
-        },
-        "item_AQdp4q": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
         }
       },
       "block_order": [
         "item_gUdbV4",
-        "item_DfDgqC",
-        "item_AQdp4q"
+        "item_DfDgqC"
       ],
       "name": "Images and text scrolling",
       "settings": {
