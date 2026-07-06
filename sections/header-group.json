@@ -17,28 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "🍎Ingrédients 100% Naturels",
+            "text": "🍎 Ingrédients Naturels",
             "url": ""
           }
         },
         "message_rxbbGe": {
           "type": "message",
           "settings": {
-            "text": "✅ 60j satisfait ou remboursé",
+            "text": "✅  60j satisfait ou remboursé",
             "url": ""
           }
         },
         "message_NwkxxU": {
           "type": "message",
           "settings": {
-            "text": "🐕 400+ chiens soulagés",
-            "url": ""
-          }
-        },
-        "message_aYCDxE": {
-          "type": "message",
-          "settings": {
-            "text": "Announce something here",
+            "text": "🐕 400+ Chiens Soulagés",
             "url": ""
           }
         }
@@ -46,10 +39,8 @@
       "block_order": [
         "message",
         "message_rxbbGe",
-        "message_NwkxxU",
-        "message_aYCDxE"
+        "message_NwkxxU"
       ],
-      "disabled": true,
       "settings": {
         "enable_sticky": false,
         "autoplay": true,
@@ -89,6 +80,7 @@
     },
     "custom_liquid_TB8Fif": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
