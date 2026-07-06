@@ -34,13 +34,22 @@
             "text": "🐕 400+ chiens soulagés",
             "url": ""
           }
+        },
+        "message_aYCDxE": {
+          "type": "message",
+          "settings": {
+            "text": "Announce something here",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
         "message_rxbbGe",
-        "message_NwkxxU"
+        "message_NwkxxU",
+        "message_aYCDxE"
       ],
+      "disabled": true,
       "settings": {
         "enable_sticky": false,
         "autoplay": true,
@@ -77,10 +86,24 @@
         "background_opacity": 100,
         "background_blur_radius": 0
       }
+    },
+    "custom_liquid_TB8Fif": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n.cc-ann{background:#1a3558;height:36px;display:flex;align-items:center;justify-content:center;font-family:Montserrat,\"Helvetica Neue\",Arial,sans-serif;overflow:hidden;width:100vw;margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw);margin-bottom:-1000px}\n.cc-ann__item{display:none;align-items:center;gap:8px;color:#fff;font-size:12px;font-weight:700;white-space:nowrap;animation:cc-fade .35s ease}\n.cc-ann__item.on{display:inline-flex}\n@keyframes cc-fade{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}\n</style>\n\n<div class=\"cc-ann\">\n  <div class=\"cc-ann__item on\">\n    <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2\" stroke=\"#fff\" stroke-width=\"2.2\" stroke-linecap=\"round\"/><circle cx=\"9\" cy=\"7\" r=\"4\" stroke=\"#fff\" stroke-width=\"2.2\"/><path d=\"M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75\" stroke=\"#fff\" stroke-width=\"2.2\" stroke-linecap=\"round\"/></svg>\n    400+ chiens soulagés\n  </div>\n  <div class=\"cc-ann__item\">\n    <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M12 2C12 2 5 6 4 13\" stroke=\"#fff\" stroke-width=\"2.2\" stroke-linecap=\"round\"/><path d=\"M12 2C12 2 19 6 20 13\" stroke=\"#fff\" stroke-width=\"2.2\" stroke-linecap=\"round\"/><path d=\"M12 22V10\" stroke=\"#fff\" stroke-width=\"2.2\" stroke-linecap=\"round\"/><ellipse cx=\"12\" cy=\"17\" rx=\"5\" ry=\"3\" stroke=\"#fff\" stroke-width=\"2.2\"/></svg>\n    Ingrédients naturels\n  </div>\n  <div class=\"cc-ann__item\">\n    <svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\"><circle cx=\"12\" cy=\"12\" r=\"9\" stroke=\"#fff\" stroke-width=\"2.2\"/><path d=\"M12 7v5l3 3\" stroke=\"#fff\" stroke-width=\"2.2\" stroke-linecap=\"round\"/></svg>\n    60j satisfait ou remboursé\n  </div>\n</div>\n\n<script>\n(function(){\n  var items=document.querySelectorAll('.cc-ann__item'),i=0;\n  setInterval(function(){items[i].classList.remove('on');i=(i+1)%items.length;items[i].classList.add('on')},3000);\n})();\n</script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "announcement-bar",
-    "header"
+    "header",
+    "custom_liquid_TB8Fif"
   ]
 }
